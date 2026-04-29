@@ -95,7 +95,7 @@ Target high-revenue age groups for personalized campaigns
 
 1. Clone Repository
 
-git clone https://github.com/deekshitha-y/customer_shopping_analysis.git
+git clone https://github.com/deekshitha-y/Customer_behavior_analysis.git
 cd customer-shopping-analysis
 
 2. Install Dependencies
